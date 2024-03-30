@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "ename": "mohan",
+      "esalary": "20000",
+      "ecompany": "tcs",
+      "id": 1
+    },
+    {
+      "ename": "akash",
+      "esalary": "20000",
+      "ecompany": "tcs",
+      "id": 2
+    },
+    {
+      "ename": "asik",
+      "esalary": "23000",
+      "ecompany": "acess",
+      "id": 3
+    }
+  ]
+}
